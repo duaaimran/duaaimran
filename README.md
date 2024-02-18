@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Pipeline To Success with ENG Ambition**
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 - 💬 Ask me about **Web development**
 
