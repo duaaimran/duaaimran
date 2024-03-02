@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineering student at the University of Guelph with a passion for coding and creating innovative solutions!</h3>
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 
-- 🔭 I’m currently working on **Pipeline To Success with ENG Ambition**
+- 🔭 I’m currently working on **A Weather App**
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **duaaimran2023@gmail.com**
 
-- ⚡ Fun fact: **I love a good book!**
+- ⚡ Fun fact: **I started coding in 10th grade and Python was my first coding language!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
