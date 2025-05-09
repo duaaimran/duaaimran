@@ -1,17 +1,23 @@
 [![MasterHead](https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2022/09/15/04964401-037d-434c-88d4-765f2e8ddd1f_5b91181c.jpg)](https://www.linkedin.com/in/duaa-imran-087234271/)
-<h1 align="center">Hi 👋, I'm Duaa Imran!</h1>
-<h3 align="center">Software Engineering student at the University of Guelph with a passion for coding and creating innovative solutions!</h3>
+<h1 align="center">Hi 👋, I'm Duaa!</h1>
+<h3 align="center">Software Engineering student at the University of Guelph and an aspiring cybersecurity professional on a mission to build safer systems and empower users with secure digital tools.</h3>
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 
-- 🔭 I’m currently working on **A Weather App**
+- 🔭 I’m currently building 🍪 **Cookie Consent Auditor** : A privacy auditing tool that inspects cookie behavior on websites. It checks if tracking cookies are applied without consent, verifies whether “Decline” buttons function as expected, and flags non-compliant implementations. Buildin using browser automation and DOM inspection logic, and a cute cookie monster animation using Framer Motion.
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 Currently learning: Splunk SIEM, Splunk SOAR scripting, incident response workflows, and other cybersecurity fundamentals (threat detection, credential hygiene).
 
-- 💬 Ask me about **Web development**
+<h3 align="left">🔐 Cybersecurity Interests:</h3>
+<p align="left">
+• Security Monitoring with Splunk SIEM<br>
+• SOAR playbook automation using **Splunk SOAR**<br>
+• Incident Detection & Response (IDR)<br>
+• Credential reuse detection and phishing mitigation<br>
+• Network segmentation, ZTNA, and secure BYOD<br>
+• Vulnerability Management with Spotlight & BeyondTrust
+</p>
 
 - 📫 How to reach me **duaaimran2023@gmail.com**
-
-- ⚡ Fun fact: **I started coding in 10th grade and Python was my first coding language!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
