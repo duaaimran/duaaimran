@@ -3,9 +3,9 @@
 <h3 align="center">Software Engineering student at the University of Guelph and an aspiring cybersecurity professional on a mission to build safer systems and empower users with secure digital tools.</h3>
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 
-- 🔭 I’m currently building 🍪 **Cookie Consent Auditor** : A privacy auditing tool that inspects cookie behavior on websites. It checks if tracking cookies are applied without consent, verifies whether “Decline” buttons function as expected, and flags non-compliant implementations. Buildin using browser automation and DOM inspection logic, and a cute cookie monster animation using Framer Motion.
+- I’m currently building a 🍪 **Cookie Consent Auditor** : A privacy auditing tool that inspects cookie behavior on websites. It checks if tracking cookies are applied without consent, verifies whether “Decline” buttons function as expected, and flags non-compliant implementations. Building using browser automation and DOM inspection logic, and a cute cookie monster animation using Framer Motion.
 
-- 🌱 Currently learning: Splunk SIEM, Splunk SOAR scripting, incident response workflows, and other cybersecurity fundamentals (threat detection, credential hygiene).
+- Currently learning: Splunk SIEM, Splunk SOAR scripting, incident response workflows, and other cybersecurity fundamentals (threat detection, credential hygiene).
 
 <h3 align="left">🔐 Cybersecurity Interests:</h3>
 <p align="left">
